@@ -32,3 +32,14 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
 ## Essence of Calculus
 https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+
+# Online courses
+
+## Essential Math for Machine Learning: Python Edition
+
+- Equations, Functions, and Graphs
+- Differentiation and Optimization
+- Vectors and Matrices
+- Statistics and Probability
+
+https://www.edx.org/course/essential-math-for-machine-learning-python-edition-3
