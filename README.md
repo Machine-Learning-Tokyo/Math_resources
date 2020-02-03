@@ -35,6 +35,13 @@ Note: We have bi-weekly remote reading sessions goingthrough all chapters of the
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Math_resources/blob/master/images/ml_math.png" width="800"></p>](https://mml-book.github.io/)
 
+# Interactive tools
+
+## Seeing Theory: Probability and Stats
+A visual introduction to probability and statistics.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Math_resources/blob/master/images/seeing_theory.png" width="800"></p>](https://seeing-theory.brown.edu/)
+
 
 # Video tutorials
 
