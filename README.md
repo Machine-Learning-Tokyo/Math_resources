@@ -43,13 +43,23 @@ A visual introduction to probability and statistics.
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Math_resources/blob/master/images/seeing_theory.png" width="800"></p>](https://seeing-theory.brown.edu/)
 
 
-# Video tutorials
+# Video lectures
 
-## Essence of Linear Algebra
-https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+## 3blue1brown
 
-## Essence of Calculus
-https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+3blue1brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Math_resources/blob/master/images/3blue1brown.png" width="800"></p>](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/featured)
+
+## Recommended video series:
+- **[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)**
+- **[Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)**
+
+
+## The classic: Gilbert Strang MIT lectures on Linear Algebra
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Math_resources/blob/master/images/Gilbert_Strang.png" width="800"></p>](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
+
 
 # Online courses
 
