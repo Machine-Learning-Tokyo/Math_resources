@@ -2,7 +2,18 @@
 
 # Books
 
+## Dive into Deep Learning
+
+An interactive deep learning book with code, math, and discussions, based on the NumPy interface by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola. With 900 pages, this seems to be one of the most comprehensive one-stop resources that goes from Linear Neural Networks and Multilayer Perceptrons all the way to modern Deep Learning architectures including Attention Mechanisms and Optimization Algorithms – giving you all three: Theory, Math & Code.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Math_resources/blob/master/d2lai.png" width="800"></p>](http://d2l.ai/)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Math_resources/blob/master/d2lai.gif" width="800"></p>](http://d2l.ai/)
+
+
 ## Math for Machine Learning
+
+Note: We have bi-weekly remote reading sessions goingthrough all chapters of the book. If you'd like to join check out this [blog post](https://machinelearningtokyo.com/2019/11/28/ml-math-reading-sessions/) and join us on [Meetup](https://www.meetup.com/Machine-Learning-Tokyo/).
 
 **Part I: Mathematical Foundations**
 
