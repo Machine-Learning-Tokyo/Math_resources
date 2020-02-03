@@ -6,9 +6,9 @@
 
 An interactive deep learning book with code, math, and discussions, based on the NumPy interface by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola. With 900 pages, this seems to be one of the most comprehensive one-stop resources that goes from Linear Neural Networks and Multilayer Perceptrons all the way to modern Deep Learning architectures including Attention Mechanisms and Optimization Algorithms – giving you all three: Theory, Math & Code.
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Math_resources/blob/master/d2lai.png" width="800"></p>](http://d2l.ai/)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Math_resources/blob/master/images/d2lai.png" width="800"></p>](http://d2l.ai/)
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Math_resources/blob/master/d2lai.gif" width="800"></p>](http://d2l.ai/)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Math_resources/blob/master/images/d2lai.gif" width="600"></p>](http://d2l.ai/)
 
 
 ## Math for Machine Learning
@@ -33,7 +33,7 @@ Note: We have bi-weekly remote reading sessions goingthrough all chapters of the
 11. Density Estimation with Gaussian Mixture Models
 12. Classification with Support Vector Machines
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Math_resources/blob/master/ml_math.png" width="800"></p>](https://mml-book.github.io/)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Math_resources/blob/master/images/ml_math.png" width="800"></p>](https://mml-book.github.io/)
 
 
 # Video tutorials
