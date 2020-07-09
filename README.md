@@ -1,5 +1,13 @@
 # Free online math resources for Machine Learning
 
+# Content
+
+- [Books](#books)
+- [Interactive Tools](#interactive-tools)
+- [Videos](#videos)
+- [Online courses](#online-courses)
+
+
 # Books
 
 ## Dive into Deep Learning
@@ -42,8 +50,36 @@ A visual introduction to probability and statistics.
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Math_resources/blob/master/images/seeing_theory.png" width="800"></p>](https://seeing-theory.brown.edu/)
 
+## Sage Interactions
 
-# Video lectures
+This is a collection of pages demonstrating the use of the **interact** command in Sage. It should be easy to just scroll through and copy/paste examples into Sage notebooks. 
+
+Examples include Algebra, Bioinformatics, Calculus, Cryptography, Differential Equations, Drawing Graphics, Dynamical Systems, Fractals, Games and Diversions, Geometry, Graph Theory, Linear Algebra, Loop Quantum Gravity, Number Theory, Statistics/Probability, Topology, Web Applications.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/sage.png" width="1000"></p>](https://wiki.sagemath.org/interact/)
+
+
+## Probability Distributions
+
+by Simon Ward-Jones. A visual 👀 tour of probability distributions.
+
+- Bernoulli Distribution
+- Binomial Distribution
+- Normal Distribution
+- Beta Distribution
+- LogNormal Distribution
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/prob.png" width="1000"></p>](https://www.simonwardjones.co.uk/posts/probability_distributions/)
+
+## Bayesian Inference
+
+by Simon Ward-Jones. Explaining the basics of bayesian inference with the example of flipping a coin.
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/bayes.png" width="1000"></p>](https://www.simonwardjones.co.uk/posts/probability_distributions/)
+
+
+
+# Videos
 
 ## 3blue1brown
 
@@ -60,8 +96,14 @@ A visual introduction to probability and statistics.
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Math_resources/blob/master/images/Gilbert_Strang.png" width="800"></p>](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
 
-
 # Online courses
+
+## Mathematics for Machine Learning – Linear Algebra
+
+Imperial College London. "This course offers an introduction to the linear algebra required for common machine learning techniques. We start at the very beginning with thinking about vectors and what vectors are, and the basic mathematical operations we can do with vectors, like how to add vectors. We then move on to think about how to find the product of vectors and what the modulus or size of a vector is. In physical spaces that then lets us think about linear algebra geometrically, and therefore when vectors are perpendicular to eachother or have an angle between then.  We can think about the basis – the fundamental vectors that make up a vector space – and how to change basis and transform between vector frames.  That then lets us think about how to combine matrix transformations and how to do inverse transformations. That then takes us on to think about the eigenvectors and eigenvalues of a transformation and what these “eigen-things” mean. We then finish up the course by applying all this to a machine learning problem – the google pagerank algorithm."
+
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
+- [Coursera](https://www.coursera.org/specializations/mathematics-machine-learning)
 
 ## Essential Math for Machine Learning: Python Edition
 
@@ -70,4 +112,4 @@ A visual introduction to probability and statistics.
 - Vectors and Matrices
 - Statistics and Probability
 
-https://www.edx.org/course/essential-math-for-machine-learning-python-edition-3
+- [EdX](https://www.edx.org/course/essential-math-for-machine-learning-python-edition-3)
