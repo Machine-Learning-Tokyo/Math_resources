@@ -94,7 +94,13 @@ by Simon Ward-Jones. Explaining the basics of bayesian inference with the exampl
 
 ## The classic: Gilbert Strang MIT lectures on Linear Algebra
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Math_resources/blob/master/images/Gilbert_Strang.png" width="800"></p>](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D)
+**Matrix Methods in Data Analysis, Signal Processing, and Machine Learning**
+- **Spring 2018**
+- **Level:** Undergraduate / Graduate
+- **Course description:** "Linear algebra concepts are key for understanding and creating machine learning algorithms, especially as applied to deep learning and neural networks. This course reviews linear algebra with applications to probability and statistics and optimization–and above all a full explanation of deep learning."
+- **Format:** [Video lectures](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Math_resources/blob/master/images/gilbert_strang.png" width="600"></p>](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/index.htm)
 
 # Online courses
 
