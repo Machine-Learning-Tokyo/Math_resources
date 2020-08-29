@@ -3,6 +3,7 @@
 # Content
 
 - [Books](#books)
+- [Blog posts](#blog-posts)
 - [Interactive Tools](#interactive-tools)
 - [Videos](#videos)
 - [Online courses](#online-courses)
@@ -43,6 +44,21 @@ Note: We have bi-weekly remote reading sessions goingthrough all chapters of the
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Math_resources/blob/master/images/ml_math.png" width="800"></p>](https://mml-book.github.io/)
 
+# Blog posts
+
+## The Matrix Calculus You Need For Deep Learning
+
+by Terence Parr and Jeremy Howard
+
+Abstract
+
+"This paper is an attempt to explain all the matrix calculus you need in order to understand the training of deep neural networks. We assume no math knowledge beyond what you learned in calculus 1, and provide links to help you refresh the necessary math where needed. Note that you do not need to understand this material before you start learning to train and use deep learning in practice; rather, this material is for those who are already familiar with the basics of neural networks, and wish to deepen their understanding of the underlying math. Don't worry if you get stuck at some point along the way---just go back and reread the previous section, and try writing down and working through some examples. And if you're still stuck, we're happy to answer your questions in the Theory category at forums.fast.ai. Note: There is a reference section at the end of the paper summarizing all the key matrix calculus rules and terminology discussed here."
+
+- [Source](https://explained.ai/matrix-calculus/index.html)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/Math_resources/blob/master/images/matrix_calc.png" width="600"></p>](https://explained.ai/matrix-calculus/index.html)
+
+
 # Interactive tools
 
 ## Seeing Theory: Probability and Stats
@@ -76,7 +92,6 @@ by Simon Ward-Jones. A visual 👀 tour of probability distributions.
 by Simon Ward-Jones. Explaining the basics of bayesian inference with the example of flipping a coin.
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/DL_study_group/blob/master/images/bayes.png" width="1000"></p>](https://www.simonwardjones.co.uk/posts/probability_distributions/)
-
 
 
 # Videos
@@ -119,3 +134,4 @@ Imperial College London. "This course offers an introduction to the linear algeb
 - Statistics and Probability
 
 - [EdX](https://www.edx.org/course/essential-math-for-machine-learning-python-edition-3)
+
